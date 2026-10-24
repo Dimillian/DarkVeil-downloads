@@ -2,7 +2,11 @@
 
 Official native downloads for [Dark Veil](https://playdarkveil.com), a dark fantasy FPS roguelite.
 
-[Download Dark Veil 0.51.0 for Mac](https://github.com/Dimillian/DarkVeil-downloads/releases/download/v0.51.0/DarkVeil-0.51.0-macOS-arm64.zip)
+[Download Dark Veil 0.52.0 for Mac](https://github.com/Dimillian/DarkVeil-downloads/releases/download/v0.52.0/DarkVeil-0.52.0-macOS-arm64.zip)
+
+[Download Dark Veil 0.52.0 for Android](https://github.com/Dimillian/DarkVeil-downloads/releases/download/v0.52.0/DarkVeil-0.52.0-Android-arm64.apk)
+
+Android: ARM64 with touch and controller support. Download the APK and allow installation from your browser or file manager when prompted. Updates are manual. This build supports offline play and local saves; Android account sign-in and cloud sync are not yet available.
 
 Requires an Apple Silicon Mac running macOS 13 or later. The app is signed with
 Developer ID, notarized by Apple, and includes its notarization ticket.
