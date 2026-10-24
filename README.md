@@ -2,7 +2,7 @@
 
 Official native downloads for [Dark Veil](https://playdarkveil.com), a dark fantasy FPS roguelite.
 
-[Download Dark Veil 0.50.0 for Mac](https://github.com/Dimillian/DarkVeil-downloads/releases/download/v0.50.0/DarkVeil-0.50.0-macOS-arm64.zip)
+[Download Dark Veil 0.51.0 for Mac](https://github.com/Dimillian/DarkVeil-downloads/releases/download/v0.51.0/DarkVeil-0.51.0-macOS-arm64.zip)
 
 Requires an Apple Silicon Mac running macOS 13 or later. The app is signed with
 Developer ID, notarized by Apple, and includes its notarization ticket.
