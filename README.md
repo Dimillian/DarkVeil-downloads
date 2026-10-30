@@ -4,7 +4,7 @@ Official native downloads for [Dark Veil](https://playdarkveil.com), a dark fant
 
 [Download Dark Veil 0.63.0 for Mac](https://github.com/Dimillian/DarkVeil-downloads/releases/download/v0.63.0/DarkVeil-0.63.0-macOS-arm64.zip)
 
-[Download Dark Veil 0.63.0 for Android](https://github.com/Dimillian/DarkVeil-downloads/releases/download/v0.63.0/DarkVeil-0.63.0-Android-arm64.apk)
+[Download Dark Veil 0.64.0 for Android](https://github.com/Dimillian/DarkVeil-downloads/releases/download/v0.64.0/DarkVeil-0.64.0-Android-arm64.apk)
 
 Android: ARM64 with touch and controller support. Download the APK and allow installation from your browser or file manager when prompted. Updates are manual. Sign in to sync your collection, Chronicle, Legacy and saved shop progress across devices, and submit runs to the leaderboard. Offline play and local saves remain available.
 
@@ -17,7 +17,8 @@ Unzip the download, move **Dark Veil.app** to Applications, and open it.
 [Release history](https://playdarkveil.com/changelog/) ·
 [Play in browser](https://playdarkveil.com/game/)
 
-Each release includes a SHA256SUMS.txt checksum file. From the download folder,
-run `shasum -a 256 -c SHA256SUMS.txt` to verify the ZIP.
+Downloads include SHA-256 checksums. For a Mac ZIP, run
+`shasum -a 256 -c SHA256SUMS.txt` from the download folder. Android APKs include
+their own `.apk.sha256` checksum file.
 
 This repository contains public downloads and release notes. Game source is maintained separately.
