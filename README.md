@@ -2,9 +2,9 @@
 
 Official native downloads for [Dark Veil](https://playdarkveil.com), a dark fantasy FPS roguelite.
 
-[Download Dark Veil 0.67.0 for Mac](https://github.com/Dimillian/DarkVeil-downloads/releases/download/v0.67.0/DarkVeil-0.67.0-macOS-arm64.zip)
+[Download Dark Veil 0.68.0 for Mac](https://github.com/Dimillian/DarkVeil-downloads/releases/download/v0.68.0/DarkVeil-0.68.0-macOS-arm64.zip)
 
-[Download Dark Veil 0.67.0 for Android](https://github.com/Dimillian/DarkVeil-downloads/releases/download/v0.67.0/DarkVeil-0.67.0-Android-arm64.apk)
+[Download Dark Veil 0.68.0 for Android](https://github.com/Dimillian/DarkVeil-downloads/releases/download/v0.68.0/DarkVeil-0.68.0-Android-arm64.apk)
 
 Android: ARM64 with touch and controller support. Download the APK and allow installation from your browser or file manager when prompted. Updates are manual. Sign in to sync your collection, Chronicle, Legacy and saved shop progress across devices, and submit runs to the leaderboard. Offline play and local saves remain available.
 
