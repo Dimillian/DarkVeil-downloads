@@ -2,7 +2,7 @@
 
 Official native downloads for [Dark Veil](https://playdarkveil.com), a dark fantasy FPS roguelite.
 
-[Download Dark Veil 0.83.0 for Mac](https://github.com/Dimillian/DarkVeil-downloads/releases/download/v0.83.0/DarkVeil-0.83.0-macOS-arm64.zip)
+[Download Dark Veil 0.84.0 for Mac](https://github.com/Dimillian/DarkVeil-downloads/releases/download/v0.84.0/DarkVeil-0.84.0-macOS-arm64.zip)
 
 [Download Dark Veil 0.84.0 for Android](https://github.com/Dimillian/DarkVeil-downloads/releases/download/v0.84.0/DarkVeil-0.84.0-Android-arm64.apk)
 
